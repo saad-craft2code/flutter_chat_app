@@ -100,8 +100,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: [muaazshoaib1670@gmail.com](mailto:muaazshoaib1670@gmail.com)
-- LinkedIn: [linkedin.com/in/muaazshoaib](https://linkedin.com/in/muaazshoaib)
+- Email: [saadabbasiabbasi2002@gmail.com](mailto:saadabbasiabbasi2002@gmail.com)
+- LinkedIn: [linkedin.com/in/muhammad-saad-abbasi](https://linkedin.com/in/muhammad-saad-abbasi)
 
 ---
 
