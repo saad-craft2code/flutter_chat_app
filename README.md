@@ -30,7 +30,7 @@ To get started with the Flutter Chat App, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/muaazshoaib/flutter_chat_app.git
+    git clone https://github.com/saad-craft2code/flutter_chat_app.git
     cd flutter_chat_app
     ```
 
